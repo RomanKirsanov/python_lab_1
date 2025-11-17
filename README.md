@@ -12,7 +12,6 @@ lab1-python-intro/
 └── README.md # Этот файл
 
 ## Установка и запуск
-
 1. Клонируйте репозиторий:
 git clone <url-репозитория>
 cd lab1-python-intro
