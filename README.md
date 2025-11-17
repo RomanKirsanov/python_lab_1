@@ -13,8 +13,8 @@ lab1-python-intro/
 
 ## Установка и запуск
 1. Клонируйте репозиторий:
-git clone <url-репозитория>
-cd lab1-python-intro
+  git clone <url-репозитория>
+  cd lab1-python-intro
 
 Установите зависимости:
 pip install -r requirements.txt
