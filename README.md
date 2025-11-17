@@ -5,10 +5,15 @@
 
 ## Структура проекта
 lab1-python-intro/
+
 ├── main.py # Главный модуль
+
 ├── src/ # Исходные модули с решениями
+
 ├── tests/ # Тесты для всех модулей
+
 ├── requirements.txt # Зависимости
+
 └── README.md # Этот файл
 
 ## Установка и запуск
@@ -24,6 +29,7 @@ python main.py
 
 Запустите тесты:
 pytest tests/ test_my_functions.py
+
 
 Задания
 
