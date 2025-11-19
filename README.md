@@ -57,3 +57,4 @@ pytest tests/ test_my_functions.py
 
 Тестирование
 Проект включает полный набор тестов для проверки корректности всех решений.
+Для запуска тестов запустите cmd, введите python -m pytest tests/test_my_functions.py -v --tb=short --durations=0
